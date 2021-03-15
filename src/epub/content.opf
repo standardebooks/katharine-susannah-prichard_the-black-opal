@@ -32,37 +32,41 @@
 		<dc:subject id="subject-1">Opal mines and mining -- Australia -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A tightly-knit community of opal miners in New South Wales is rocked by the departure of one of their most-beloved young people.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Black Opal&lt;/i&gt; is a novel written in 1921 by &lt;a href="https://standardebooks.org/ebooks/katharine-susannah-prichard"&gt;Katharine Susannah Prichard&lt;/a&gt;. Prichard was born in 1883 to Australian parents then living in Fiji, but she grew up in Tasmania, lived for a while in both Melbourne and London before finally settling in Western Australia. She was one of the co-founders of the Communist Party of Australia in 1921, and her status as a communist and a female writer led to her being frequently under surveillance and harassment by the Australian police and other government authorities.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Black Opal&lt;/i&gt; focuses on the very close-knit opal-mining community living and working on Fallen Star Ridge, a fictitious location set in New South Wales, Australia.&lt;/p&gt;
+			&lt;p&gt;Life is hard for the miners as their fortunes rise and fall with the amounts and quality of black opal they can uncover. Black opal is a beautiful mineral with fiery gleams of color, much valued for jewelry. Finding productive seams of such opal is however a matter of both hard work and good luck. Despite the difficulties of individual miners, there is a community of spirit and an agreement on basic values and principles of behavior at the Ridge. This community of shared endeavor is however eventually jeopardized by the influence of outsiders, in particular an American who wishes to buy up the individual mines, operate them under a company structure and simply pay the miners a salary. This theme could be seen as the conflict between capitalism and honest manual labour.&lt;/p&gt;
+			&lt;p&gt;The novel also is a well-drawn study of the relationships of the people living on the Ridge, and in particular it follows two main characters: Michael Brady, and older man much respected by the other miners for this knowledge and ethical approach; and Sophie Rouminof, a beautiful teenage girl who is the darling of the camp but who abruptly runs away to America after being disappointed in love.&lt;/p&gt;
 		</meta>
 		<dc:language>en-AU</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36710</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/cu31924013250455</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Opal</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/katharine-susannah-prichard_the-black-opal</meta>
 		<dc:creator id="author">Katharine Susannah Prichard</dc:creator>
 		<meta property="file-as" refines="#author">Prichard, Katharine Susannah</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Katharine_Susannah_Prichard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50063039</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Arthur Streeton</dc:contributor>
+		<meta property="file-as" refines="#artist">Streeton, Arthur</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arthur_Streeton</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n89664455</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Amy Sisson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Sisson, Amy</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">D’Hooghe, Marc</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
