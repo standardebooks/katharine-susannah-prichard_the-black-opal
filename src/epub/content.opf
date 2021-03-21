@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/katharine-susannah-prichard/the-black-opal</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-21T16:58:09Z</dc:date>
+		<meta property="dcterms:modified">2021-03-21T16:58:09Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,16 +35,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A tightly-knit community of opal miners in New South Wales is rocked by the departure of one of their most-beloved young people.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Black Opal&lt;/i&gt; is a novel written in 1921 by &lt;a href="https://standardebooks.org/ebooks/katharine-susannah-prichard"&gt;Katharine Susannah Prichard&lt;/a&gt;. Prichard was born in 1883 to Australian parents then living in Fiji, but she grew up in Tasmania, lived for a while in both Melbourne and London before finally settling in Western Australia. She was one of the co-founders of the Communist Party of Australia in 1921, and her status as a communist and a female writer led to her being frequently under surveillance and harassment by the Australian police and other government authorities.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Black Opal&lt;/i&gt; focuses on the very close-knit opal-mining community living and working on Fallen Star Ridge, a fictitious location set in New South Wales, Australia.&lt;/p&gt;
-			&lt;p&gt;Life is hard for the miners as their fortunes rise and fall with the amounts and quality of black opal they can uncover. Black opal is a beautiful mineral with fiery gleams of color, much valued for jewelry. Finding productive seams of such opal is however a matter of both hard work and good luck. Despite the difficulties of individual miners, there is a community of spirit and an agreement on basic values and principles of behavior at the Ridge. This community of shared endeavor is however eventually jeopardized by the influence of outsiders, in particular an American who wishes to buy up the individual mines, operate them under a company structure and simply pay the miners a salary. This theme could be seen as the conflict between capitalism and honest manual labour.&lt;/p&gt;
-			&lt;p&gt;The novel also is a well-drawn study of the relationships of the people living on the Ridge, and in particular it follows two main characters: Michael Brady, an older man much respected by the other miners for this knowledge and ethical approach; and Sophie Rouminof, a beautiful teenage girl who is the darling of the camp but who abruptly runs away to America after being disappointed in love.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/katharine-susannah-prichard"&gt;Katharine Susannah Prichard&lt;/a&gt; was born in 1883 to Australian parents then living in Fiji, but she grew up in Tasmania, lived for a while in both Melbourne and London before finally settling in Western Australia. She was one of the co-founders of the Communist Party of Australia in 1921, and her status as a communist and a female writer led to her being frequently under surveillance and harassment by the Australian police and other government authorities.&lt;/p&gt;
+			&lt;p&gt;She wrote &lt;i&gt;The Black Opal&lt;/i&gt; in 1921, and the novel focuses on the very close-knit opal-mining community living and working on Fallen Star Ridge, a fictitious location set in New South Wales, Australia. Life is hard for the miners as their fortunes rise and fall with the amounts and quality of black opal they can uncover. Black opal is a beautiful mineral with fiery gleams of color, much valued for jewelry. Finding productive seams of such opal is a matter of both hard work and good luck.&lt;/p&gt;
+			&lt;p&gt;The novel is a well-drawn study of the relationships of the people living on the Ridge, and the two main characters are portrayed with clarity: Michael Brady, an older man much respected by the other miners for this knowledge and ethical approach, and Sophie Rouminof, a beautiful teenage girl who is the darling of the camp but who abruptly runs away to America after being disappointed in love.&lt;/p&gt;
+			&lt;p&gt;Despite the difficulties the individual miners face, there is a community spirit and an agreement on basic values and principles of behavior at the Ridge. But this community of shared endeavor is eventually jeopardized by the influence of outsiders, in particular an American who wishes to buy up the individual mines, operate them under a company structure, and simply pay the miners a salary. This conflict between capitalism and honest manual labour becomes one of the most important themes of the work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-AU</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36710</dc:source>
 		<dc:source>https://archive.org/details/cu31924013250455</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">104284</meta>
+		<meta property="se:reading-ease.flesch">79.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Opal</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/katharine-susannah-prichard_the-black-opal</meta>
 		<dc:creator id="author">Katharine Susannah Prichard</dc:creator>
@@ -64,6 +64,10 @@
 		<dc:contributor id="transcriber-2">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="sponsor">Google</dc:contributor>
+		<meta property="file-as" refines="#sponsor">Google</meta>
+		<meta property="se:url.homepage" refines="#sponsor">https://www.google.com</meta>
+		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
@@ -73,6 +77,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
