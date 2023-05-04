@@ -42,7 +42,7 @@
 		<dc:language>en-AU</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36710</dc:source>
 		<dc:source>https://archive.org/details/cu31924013250455</dc:source>
-		<meta property="se:word-count">104285</meta>
+		<meta property="se:word-count">104284</meta>
 		<meta property="se:reading-ease.flesch">79.9</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/katharine-susannah-prichard_the-black-opal</meta>
 		<dc:creator id="author">Katharine Susannah Prichard</dc:creator>
