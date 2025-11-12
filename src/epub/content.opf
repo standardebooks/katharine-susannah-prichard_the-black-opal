@@ -50,8 +50,8 @@
 		<meta property="file-as" refines="#author">Prichard, Katharine Susannah</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Katharine_Susannah_Prichard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50063039</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Arthur Streeton</dc:contributor>
 		<meta property="file-as" refines="#artist">Streeton, Arthur</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arthur_Streeton</meta>
